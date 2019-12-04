@@ -1,0 +1,11 @@
+[package]
+authors = ["jakeandrews186 <jakeandrews186@u.boisestate.edu>"]
+edition = "2018"
+name = "markov"
+version = "0.1.0"
+[dependencies]
+itertools = "0.8"
+rand = "0.6"
+regex = "1.1"
+structopt = "0.2"
+rust_twitter_bot_lib = "0.1.2"
