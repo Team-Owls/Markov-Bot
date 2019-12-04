@@ -1,0 +1,1 @@
+{"rustc":1804042568765690419,"features":"[\"default\", \"use_std\", \"with-deprecated\"]","target":13417998278410827801,"profile":2574335274271406459,"path":2868506918357683672,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release\\.fingerprint\\futures-0688ead19a8ce1de\\dep-lib-futures-0688ead19a8ce1de"}}],"rustflags":[],"metadata":6792947515194410885}

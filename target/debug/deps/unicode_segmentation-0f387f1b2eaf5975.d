@@ -1,0 +1,11 @@
+C:\Users\JakeA\markov\target\debug\deps\unicode_segmentation-0f387f1b2eaf5975.rmeta: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+C:\Users\JakeA\markov\target\debug\deps\libunicode_segmentation-0f387f1b2eaf5975.rlib: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+C:\Users\JakeA\markov\target\debug\deps\unicode_segmentation-0f387f1b2eaf5975.d: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs:

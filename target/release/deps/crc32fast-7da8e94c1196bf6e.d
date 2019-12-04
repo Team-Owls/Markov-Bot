@@ -1,0 +1,12 @@
+C:\Users\JakeA\markov\target\release\deps\crc32fast-7da8e94c1196bf6e.rmeta: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\JakeA\markov\target\release\deps\libcrc32fast-7da8e94c1196bf6e.rlib: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\JakeA\markov\target\release\deps\crc32fast-7da8e94c1196bf6e.d: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs:

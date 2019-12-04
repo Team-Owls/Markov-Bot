@@ -1,0 +1,13 @@
+C:\Users\JakeA\markov\target\debug\deps\memchr-db92221912163af3.rmeta: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs
+
+C:\Users\JakeA\markov\target\debug\deps\libmemchr-db92221912163af3.rlib: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs
+
+C:\Users\JakeA\markov\target\debug\deps\memchr-db92221912163af3.d: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs
+
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\lib.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\fallback.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\iter.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\naive.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\mod.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\avx.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\memchr-2.2.1\src\x86\sse2.rs:

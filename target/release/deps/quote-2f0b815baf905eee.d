@@ -1,0 +1,13 @@
+C:\Users\JakeA\markov\target\release\deps\quote-2f0b815baf905eee.rmeta: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ext.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\format.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ident_fragment.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\to_tokens.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\runtime.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\spanned.rs
+
+C:\Users\JakeA\markov\target\release\deps\libquote-2f0b815baf905eee.rlib: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ext.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\format.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ident_fragment.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\to_tokens.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\runtime.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\spanned.rs
+
+C:\Users\JakeA\markov\target\release\deps\quote-2f0b815baf905eee.d: C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\lib.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ext.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\format.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ident_fragment.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\to_tokens.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\runtime.rs C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\spanned.rs
+
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\lib.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ext.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\format.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\ident_fragment.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\to_tokens.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\runtime.rs:
+C:\Users\JakeA\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.2\src\spanned.rs:
