@@ -7,7 +7,8 @@ use std::{
     collections::HashMap, error::Error, fs::OpenOptions, io::Read, path::PathBuf, str::FromStr,
 };
 use structopt::StructOpt;
-//use rust_twitter_bot_lib::*;
+use rust_twitter_bot_lib::*;
+use std::env;
 
 #[derive(StructOpt, Debug)]
 #[structopt(name = "markov")]
@@ -67,20 +68,22 @@ fn run(input: PathBuf, length: u32) -> Result<(), Box<dyn Error>> {
     let tweet_cleaner = Regex::new(r"[A-Z]+\s+[^.!?]*[.!?]").unwrap();
     let cleaned_tweet = tweet_cleaner.find_iter(&tweet).map(|mat| mat.as_str()).collect::<String>();
 
-    print!("{}", cleaned_tweet);
-    //print!("{}", tweet);
+    if !cleaned_tweet.is_empty() {
+    
+    let twitter_bot = TwitterBot::new()
+    .consumer_key(env::var("CONSUMER_API_KEY").unwrap_or_else(|e| {panic!("could not find CONSUMER_API_KEY: {}", e)}).as_str())
+    .consumer_secret_key(env::var("CONSUMER_API_SECRET_KEY").unwrap_or_else(|e| {panic!("could not find CONSUMER_API_SECRET_KEY: {}", e)}).as_str())
+    .access_token(env::var("ACCESS_TOKEN").unwrap_or_else(|e| {panic!("could not find ACCESS_TOKEN: {}", e)}).as_str())
+    .secret_access_token(env::var("ACCESS_TOKEN_SECRET").unwrap_or_else(|e| {panic!("could not find ACCESS_TOKEN_SECRET: {}", e)}).as_str());
 
-    //     let twitter_bot = TwitterBot::new()
-    //     .consumer_key(YOUR_CONSUMER_KEY)
-    //     .consumer_secret_key(YOUR_CONSUMER_SECRET_KEY)
-    //     .access_token(YOUR_ACCESS_TOKEN)
-    //     .secret_access_token(YOUR_SECRET_ACCESS_TOKEN);
+    let res = twitter_bot.tweet(&cleaned_tweet, Some(<HashMap<&str, &str>>::new())).unwrap();
 
-    //   let res = twitter_bot.tweet("{} ", w2).unwrap();
-
-    //   println!("{:?}", res);
+    println!("{:?}", res );
 
     Ok(())
+    } else {
+        Ok(())
+    }
 }
 
 fn main() {
